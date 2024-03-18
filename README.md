@@ -1,2 +1,2 @@
 # Javascript-exersice
-The javascript exersice
+The javascript exersice for lerning 
