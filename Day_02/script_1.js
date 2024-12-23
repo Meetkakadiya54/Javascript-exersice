@@ -4,7 +4,7 @@
 let challange = '30 Days Of JavaScript'; // this is global for the quetion 
 
 // 2. Print the string on the browser console using console.log()
-// console.log(challange);
+console.log(challange);
 
 // 3. Print the length of the string on the browser console using console.log()
 // console.log(challange.length);
@@ -16,7 +16,57 @@ let challange = '30 Days Of JavaScript'; // this is global for the quetion
 // console.log(challange.toLowerCase());
 
 // 6. Cut (slice) out the first word of the string using substr() or substring() method
-// // console.log(challange.substring(3,21));
+console.log(challange.substring(3,21));
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 // 7. Slice out the phrase Days Of JavaScript from 30 Days Of JavaScript.
 // console.log(challange.substring(0,2));
